@@ -1,0 +1,24 @@
+# ninja log v5
+1	437	1693919941421556029	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+0	587	1693919941569562122	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+587	719	1693919941701567557	Exercice_revision_type_point	75af1cbdd92ac00a
+1	379	1693920119613121945	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+0	530	1693920119765128573	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+531	655	1693920119885133807	Exercice_revision_type_point	75af1cbdd92ac00a
+1	397	1693920247426781524	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+0	536	1693920247562787630	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+536	646	1693920247674792659	Exercice_revision_type_point	75af1cbdd92ac00a
+0	383	1693920337478858851	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+383	493	1693920337586863779	Exercice_revision_type_point	75af1cbdd92ac00a
+2	475	1693920500382382134	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+1	629	1693920500538389416	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+630	737	1693920500642394270	Exercice_revision_type_point	75af1cbdd92ac00a
+1	379	1693920729921219745	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+0	529	1693920730073226993	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+529	636	1693920730177231952	Exercice_revision_type_point	75af1cbdd92ac00a
+5	750	1694112123576362821	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+1	817	1694112123644365742	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+818	958	1694112123784371754	Exercice_revision_type_point	75af1cbdd92ac00a
+1	405	1694253309961196398	CMakeFiles/Exercice_revision_type_point.dir/main.cpp.o	9b18ed25e4dc69ec
+1	567	1694253310121204010	CMakeFiles/Exercice_revision_type_point.dir/points.cpp.o	2b58676f41e82286
+567	677	1694253310229209149	Exercice_revision_type_point	75af1cbdd92ac00a

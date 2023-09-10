@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice_revision_type_point",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_revision_type_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_revision_type_point-Debug-7b478a26bb287f333d9b.json",
+					"name" : "Exercice_revision_type_point",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/noah/Documents/CiTiSE_2A/IUT/POO_S3/Exercice_revision_type_point/cmake-build-debug",
+		"source" : "/home/noah/Documents/CiTiSE_2A/IUT/POO_S3/Exercice_revision_type_point"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
